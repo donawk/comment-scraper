@@ -1,0 +1,24 @@
+
+{
+    "defaults": 
+    {
+        "max_comments": 7,
+        "start_date": "2022 01 01",
+        "end_date": "2022 01 01"
+    },
+    "pages":
+    [
+        {
+            "page": "nintendo",
+            "max_comments": 3,
+            "start_date": "2022 03 24",
+            "end_date": "2022 03 25"
+        },
+        {
+            "page": "TheBritishMonarchy",
+            "max_comments": 5,
+            "start_date": "2022 03 28",
+            "end_date": "2022 04 05"
+        }
+    ]
+}
